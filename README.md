@@ -1,6 +1,6 @@
 # PicData
 
-![size](https://img.shields.io/github/repo-size/yefcion/PicData)
+![size](https://img.shields.io/github/repo-size/yefcion/PicData?color=red)
 ![size](https://img.shields.io/github/repo-size/yefcion/PicData?style=social)
 
 写在前面
