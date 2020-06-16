@@ -2,6 +2,7 @@
 
 ![size](https://img.shields.io/github/repo-size/yefcion/PicData?color=red)
 ![size](https://img.shields.io/github/repo-size/yefcion/PicData?style=social)
+![commit-date](https://img.shields.io/github/last-commit/yefcion/PicData)
 
 写在前面
 
